@@ -5,7 +5,7 @@
 ## Description
 
 The Quote Generator is a simple web application built using HTML, CSS, and JavaScript that fetches quotes asynchronously from a REST API and displays them to the user. It provides an easy way for users to get inspired, motivated, or simply entertained by a collection of hand-picked quotes.
-He a [Demo](https://www.nass42.github.io/Quote_generator/)
+He a [Demo](https://nass42.github.io/Quote_generator/)
 
 ## Features
 
